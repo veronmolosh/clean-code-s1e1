@@ -13,7 +13,7 @@
 .matrix-eisenhower__img {
   width: 100%;
 }
-.more-info {
+.matrix-eisenhower__more-info {
   font-family: fantasy, cursive;
 }
 
@@ -126,7 +126,7 @@ button{
 .list-item >    .input-text {
   width: 226px;
 }
-.list-item > .delete:hover {
+.delete:hover {
   color: #cf2323;
 }
 .remove-img {
