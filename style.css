@@ -13,7 +13,7 @@
 .matrix-eisenhower__img {
   width: 100%;
 }
-.more_info {
+.more-info {
   font-family: fantasy, cursive;
 }
 
@@ -34,7 +34,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.add-items__wrapper {
   display: flex;
 }
 ul {
@@ -139,7 +139,7 @@ button{
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#completed__tasks label {
   text-decoration: line-through;
   color: #888;
 }
@@ -149,11 +149,11 @@ ul#completed-tasks label {
   display: none;
 }
 
-.editmode .input-text {
+.edit-mode .input-text {
   display: inline-block;
   width: 224px;
 }
 
-ul li.editmode label {
+.edit-mode .label-task {
   display: none;
 }
